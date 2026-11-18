@@ -1,4 +1,4 @@
-Ejercicio 2 - Registro Centralizado de Actividades de la Biblioteca
+Ejercicio 12 - Registro Centralizado de Actividades de la Biblioteca
 
 Explicación del programa
 
